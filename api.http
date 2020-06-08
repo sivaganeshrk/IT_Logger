@@ -1,0 +1,13 @@
+GET http://localhost:5000/logs
+
+###
+GET http://localhost:5000/techs
+
+###
+POST http://localhost:5000/techs
+Content-Type: application/json
+
+{
+  "firstName":"Prem",
+  "lastName":"Kumar"
+}

@@ -1,0 +1,35 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Test1",
+      "attention": true,
+      "date": "03-02-2020",
+      "tech": "Siva Ganesh"
+    },
+    {
+      "id": 2,
+      "message": "Test2",
+      "attention": false,
+      "date": "03-02-2020",
+      "tech": "Sandy Sandeep"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Siva",
+      "lastName": "Ganesh"
+    },
+    {
+      "id": 2,
+      "firstName": "Sandy",
+      "lastName": "Sandeep"
+    },
+    {
+      "firstName": "Prem",
+      "lastName": "Kumar",
+      "id": 3
+    }
+  ]
+}
